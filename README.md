@@ -1,6 +1,6 @@
 # Space Image Data Processing and Projects
 
-This repository contains Jupyter notebooks for performing exploratory data analysis (EDA) on space data images dataset called [Galaxies Center](https://www.kaggle.com/datasets/brsdincer/center-of-all-observable-galaxiesfits-allesa). The notebooks demonstrate how to perform EDA on space images on specific features, using different filters, and visualization libraries to perform Spectroscopy. The aim of this project is to provide researchers and data enthusiasts with a starting point for their own space data image analysis projects.
+This repository contains Jupyter notebooks for performing exploratory data analysis (EDA) on space data images dataset called [Galaxies Center](https://www.kaggle.com/datasets/brsdincer/center-of-all-observable-galaxiesfits-allesa). The notebooks demonstrate how to perform EDA on space images on specific features, using different filters, and visualization libraries to perform Spectroscopy. The aim of this project is to provide researchers and data enthusiasts with a starting point for their own space data image analysis projects. Every Notebook on Astronomical data and more are also available on my [Kaggle Page](https://www.kaggle.com/shibinjudah) too
 
 ## Table of Contents:
 * **Project 1 :** [Fireworks Galaxy EDA 1: Introduction](/FireworksGalaxy_EDA.ipynb) [[Kaggle Notebook](https://www.kaggle.com/shibinjudah/fireworks-galaxy-eda-introduction)]
@@ -32,7 +32,7 @@ pip install tensorflow opencv-python numpy matplotlib seaborn astropy librosa sc
 ```
 
 ## Usage
-Each Notebook has .
+Each Notebook has introduction, a brief on concepts covered, a thorough walkthrough with clear explanations and conclusions. Every notebook is also available on Kaggle with the links provided.
 
 ## Conclusion
 This Space Image Data Processing and Projects repository showcases my general IQ with Astronomy and space related fields along with my skills in image processing and manipulation, computer vision, and machine learning. I have implemented various projects using popular libraries such as TensorFlow and OpenCV, and niche libraries such as Astropy, Librosa, Specutils, Scipy, etc. and have included detailed instructions on how to use and run each project.
